@@ -1,6 +1,6 @@
-package patterns.strategy;
+package patterns.Strategy;
 
-import patterns.strategy.fly.FlyNoWay;
+import patterns.Strategy.fly.FlyNoWay;
 
 public class MiniDuckSimulator {
     public static void main(String[] args) {
